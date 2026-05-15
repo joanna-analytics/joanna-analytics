@@ -1,7 +1,5 @@
 ## About Me
-I am an aspiring data analyst with a focus on data cleaning, analysis, and dashboard design in Excel.  
-<br>
-I enjoy working with real-world datasets to uncover insights and present them clearly through structured visualisations.
+I am an aspiring data analyst with a focus on data cleaning, analysis, and dashboard design in Excel. I enjoy working with real-world datasets to uncover insights and present them clearly through structured visualisations.
 
 ---
 
