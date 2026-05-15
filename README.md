@@ -23,7 +23,7 @@ Key elements:
 - Normalised delay metrics for fair comparison
 - Interactive dashboards with region and season filters
 
-## Customer Retention & Revenue Analysis
+### Customer Retention & Revenue Analysis
 This project analyses retail transaction data to identify customer retention patterns, revenue trends and high-value customer segments using SQL and Power BI.
 It combines customer behaviour analysis with business performance metrics to identify purchasing patterns and revenue concentration.
 
