@@ -15,18 +15,20 @@ I am an aspiring data analyst with a focus on data cleaning, analysis, and dashb
 ## Projects
 ### NHS A&E Performance Dashboard
 This project analyses A&E attendances and 4-hour delay performance across NHS England.  
-It combines demand analysis with performance metrics to identify patterns in service utilisation and waiting times.
-Key elements:
-- Comparison of walk-in vs booked attendance pathways
-- Analysis of A&E types (Type 1, Type 2, Other)
-- Normalised delay metrics for fair comparison
-- Interactive dashboards with region and season filters
+It combines demand analysis with performance metrics to identify patterns in service utilisation and waiting times.<br>
 
+<p><strong>Key elements:</strong></p>
+<ul>
+<li>Comparison of walk-in vs booked attendance pathways</li>
+<li>Analysis of A&E types (Type 1, Type 2, Other)</li>
+<li>Normalised delay metrics for fair comparison</li>
+<li>Interactive dashboards with region and season filters</li>
+</ul>
 <br>
 
 ### Customer Retention & Revenue Analysis
 This project analyses retail transaction data to identify customer retention patterns, revenue trends and high-value customer segments using SQL and Power BI.
-It combines customer behaviour analysis with business performance metrics to identify purchasing patterns and revenue concentration.
+It combines customer behaviour analysis with business performance metrics to identify purchasing patterns and revenue concentration.<br>
 Key elements:
 - Customer retention and repeat purchase analysis
 - Revenue trend analysis and seasonality identification
