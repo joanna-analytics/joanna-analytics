@@ -22,6 +22,16 @@ It combines demand analysis with performance metrics to identify patterns in ser
 • Normalised delay metrics for fair comparison<br>
 • Interactive dashboards with region and season filters<br>
 
+### Comparative Analysis of Admissions and Hospital Performance
+This project analyses healthcare admissions and hospital performance across multiple facilities using PostgreSQL and Excel.  
+It combines operational and financial metrics to identify differences in patient volume, revenue per case, and efficiency.<br>
+**Key elements:**  
+• Relational database design and SQL data modelling<br>
+• Comparison of hospital performance metrics<br>
+• Analysis of patient volume, billing, and length of stay<br>
+• Performance segmentation using reference-based scatter plots<br>
+• Interactive Excel dashboard with comparative visualisations<br>
+
 ### Customer Retention & Revenue Analysis
 This project analyses retail transaction data to identify customer retention patterns, revenue trends and high-value customer segments using SQL and Power BI.
 It combines customer behaviour analysis with business performance metrics to identify purchasing patterns and revenue concentration.<br>
