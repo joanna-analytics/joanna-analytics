@@ -40,7 +40,7 @@ It combines customer behaviour analysis with business performance metrics to ide
 • Revenue trend analysis and seasonality identification<br>
 • Customer segmentation by revenue contribution<br>
 • Revenue comparison across international markets<br>
-• KPI dashboard development in Power BI<br>
+• KPI dashboard development in Power BI<br><br>
 
 ---
 
