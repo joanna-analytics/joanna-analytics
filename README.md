@@ -13,7 +13,6 @@ I am an aspiring data analyst with a focus on data cleaning, analysis, and dashb
 ---
 
 ## Projects
-<br>
 
 ### NHS A&E Performance Dashboard
 This project analyses A&E attendances and 4-hour delay performance across NHS England.  
