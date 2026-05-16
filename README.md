@@ -1,9 +1,13 @@
 ## About Me
-I am an aspiring data analyst with a focus on data cleaning, analysis, and dashboard design in Excel. I enjoy working with real-world datasets to uncover insights and present them clearly through structured visualisations.
+I am a data analyst with a focus on data cleaning, analysis, and dashboard design in Excel. I enjoy working with real-world datasets to uncover insights and present them clearly through structured visualisations.
 
 ---
 
 ## Skills
+- PostgreSQL
+- pgAdmin 4
+- Power BI
+- DAX
 - Microsoft Excel
 - Power Query (data cleaning & transformation)
 - Pivot Tables & Pivot Charts
